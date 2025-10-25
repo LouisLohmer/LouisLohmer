@@ -11,3 +11,4 @@
 ## Connect with me
 - **Discord:** 404usernotfound
 - **Github:** [LouisLohmer](https://github.com/LouisLohmer)
+- **E-Mail:** [E-Mail](lohmerlouis@gmail.com)
