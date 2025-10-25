@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋, I'm Louis Lohmer</h1>
+
 
 ## About me
 - Passionate frontend developer from germany, currently in education
